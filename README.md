@@ -46,7 +46,7 @@ This project involved developing a Python script to download and analyze user in
 
 4. Run the script:
    ```bash
-   python youtube_data_extraction.py
+   jupyter notebook sma.ipynb
    ```
 
 ### Results
